@@ -1,5 +1,5 @@
 # Car_price_prediction
-## Automobile Data Set     https://archive.ics.uci.edu/ml/datasets/Automobile
+## Automobile Data Set     [[![Credy Badges](https://archive.ics.uci.edu/ml/datasets/Automobile)]
 Abstract: From 1985 Ward's Automotive Yearbook
 ## Sources:
 
@@ -45,3 +45,8 @@ Note: Several of the attributes in the database could be used as a "class" attri
 24. city-mpg: continuous from 13 to 49.
 25. highway-mpg: continuous from 16 to 54.
 26. price: continuous from 5118 to 45400.
+
+
+
+
+[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rajamit34/)
